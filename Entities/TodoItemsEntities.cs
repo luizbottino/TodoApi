@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace ToDoAPI.Entities
+namespace TodoApi.Entities
 {
 
     public class TodoItem

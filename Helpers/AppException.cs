@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace ToDoAPI.Helpers
+namespace TodoApi.Helpers
 {
     public class AppException : Exception
     {
